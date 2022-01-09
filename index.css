@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css?family=Merienda+One|Open+Sans&display=swap');
+
+body {
+	font-family: 'Open Sans', Arial, sans-serif;
+	margin: 0;
+	background-color: #95b2b9;
+}
+
+.black-background {
+    background-color: black;
+}
+
+.form-page-header { 
+    height: 30vh;
+	background: center / cover no-repeat;
+    padding: 5%;
+    background-image: url(https://images.pexels.com/photos/161798/stonehenge-architecture-history-monolith-161798.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260)
+}
+
+.front-page-header {
+	height: 30vh;
+	background: center / cover no-repeat;
+    padding: 5%;
+    background-image: url(https://images.pexels.com/photos/161798/stonehenge-architecture-history-monolith-161798.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260)
+}
+
+span{
+	color: red;
+}
+
+
+.background-color-history{ 
+	background-color: #95b2b9;
+}
+
+.vertical-center{
+	position: relative;
+	top: 65%;
+}
+
+.float-right{
+	float: right;
+}
+
+.float-left{
+	float: left;
+}
+
+nav {
+	padding: 1rem;
+}
+
+nav > a {
+	text-decoration: underline;
+	color: beige;
+	margin: 1rem;
+}
+
+nav > a:hover {
+	color: silver;
+}
+
+h1,h2,h3 {
+	font-family: 'Merienda One', 'Brush Script MT', cursive;
+}
+
+div { 
+    font-family: 'Merienda One', 'Brush Script MT', cursive;
+}
+
+.border {
+	border-width: 3px;
+	border-style:outset;
+	border-color: blue;	
+}
+
+
+.uppercase { 
+    text-transform: uppercase;
+}
+
+.text-center {
+    text-align:center;
+}
+
+legend {
+    font-weight:700;
+
+}
+
+footer {
+	background-color: #a87b00;
+	text-align: center;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+	z-index: 3;
+}
+
+footer > span {
+	color: silver;
+}
+
+footer > a {
+	color: beige;
+	text-decoration: none;
+	padding: 0 15px;
+	font-size: 0.8rem;
+}
+
+footer > p {
+	color: silver;
+}
+
+form {
+	text-align: center;
+}
+
+
+
+ 
