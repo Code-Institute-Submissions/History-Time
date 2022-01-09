@@ -17,11 +17,7 @@ Validator Testing
 
 I have tested using https://validator.w3.org/nu/#textarea
 
-index.html file had no errors while testing. 
-
-index.css file had no errors. 
-
-timeline.css had no errors. 
+There is no errors and no warnings on my website.
 
 Sources 
 
